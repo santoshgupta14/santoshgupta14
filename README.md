@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santoshgupta14
 - 👀 I’m interested in web application development
 - 🌱 I’m currently learning Python, React.js and Angular.js
-- 💞️ I’m looking to collaborate on project contribution
+- 💞️ I’m looking to collaborate on open source project contribution
 - 📫 How to reach me santoshgupta0149@gmail.com
 
 <!---
